@@ -6,7 +6,7 @@ import re
 import numpy
 import spacy
 import tkinter as tk
-
+#Imported
 from nltk.tokenize import wordpunct_tokenize
 from nltk.stem import PorterStemmer
 from nltk.stem import wordnet
