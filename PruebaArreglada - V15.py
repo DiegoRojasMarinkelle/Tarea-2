@@ -22,7 +22,7 @@ from docx.shared import RGBColor
 from googletrans import Translator
 from tkinter import filedialog
 
-"""Metodos nltk"""
+"""Metodos nltk (Kit de herramientas de lenguaje natural)"""
 pst = PorterStemmer()
 wnl = WordNetLemmatizer()
 
